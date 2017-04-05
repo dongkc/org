@@ -1,0 +1,42 @@
+* Speical Days
+:PROPERTIES:
+:CATEGORY: Special Day
+:END:
+** Birthdays
+** Anniversaries
+** Holidays
+
+* Finances
+:PROPERTIES:
+:CATEGORY: Finance
+:END:
+
+* Health and Recreation
+:PROPERTIES:
+:CATEGORY: Health
+:END:
+
+* House Maintenance
+:PROPERTIES:
+:CATEGORY: House
+:END:
+
+* Notes
+:PROPERTIES:
+:CATEGORY: Note
+:END:
+
+* Tasks
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+* Vehicle Maintenance
+:PROPERTIES:
+:CATEGORY: Vehicle
+:END:
+
+* Passwords
+:PROPERTIES:
+:CATEGORY: Passwd
+:END:
