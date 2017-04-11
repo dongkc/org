@@ -31,6 +31,13 @@
 :CATEGORY: Task
 :END:
 
+** NEXT 写工作日志
+SCHEDULED: <2017-04-05 Wed 17:00-17:30 +1d>
+:LOGBOOK:  
+CLOCK: [2017-04-05 Wed 17:07
+:END:      
+[2017-04-05 Wed 17:07]
+
 * Vehicle Maintenance
 :PROPERTIES:
 :CATEGORY: Vehicle
