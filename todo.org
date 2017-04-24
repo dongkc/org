@@ -31,13 +31,27 @@
 :CATEGORY: Task
 :END:
 
-** NEXT 写工作日志
-SCHEDULED: <2017-04-05 Wed 17:00-17:30 +1d>
+** NEXT 写工作日志<2017-04-23 Sun>--<2017-04-15 Sat>
+SCHEDULED: <2017-04-09 Wed 17:00-17:30 +1d>
 :LOGBOOK:  
 CLOCK: [2017-04-05 Wed 17:07
 :END:      
 [2017-04-05 Wed 17:07]
 
+** TODO metting this room
+   :LOGBOOK:  
+   CLOCK: [2017-04-13 Thu 10:35]--[2017-04-14 Fri 10:15] => 23:40
+   CLOCK: [2017-04-13 Thu 10:31]--[2017-04-13 Thu 10:34] =>  0:03
+   CLOCK: [2017-04-13 Thu 10:23]--[2017-04-13 Thu 10:29] =>  0:06
+   :END:      
+[2017-04-13 Thu 10:20]
+
+** MEETING with yanyi luyu                                                      :MEETING:
+  :LOGBOOK:  
+  CLOCK: [2017-04-13 Thu 10:29]--[2017-04-13 Thu 10:31] =>  0:02
+  :END:      
+[2017-04-13 Thu 10:29]
+discuss jintan demo project process, record everyone's progress
 * Vehicle Maintenance
 :PROPERTIES:
 :CATEGORY: Vehicle
